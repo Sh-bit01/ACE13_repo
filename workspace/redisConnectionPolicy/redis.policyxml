@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<policies>
+  <policy policyType="RedisConnection" policyName="redis" policyTemplate="RedisConnection">
+    <hostname>192.168.3.197</hostname>
+    <port>6379</port>
+    <databaseNumber>1</databaseNumber>
+    <clientName></clientName>
+    <securityIdentity></securityIdentity>
+    <useSSL>false</useSSL>
+    <sslProtocol>TLSv1.3</sslProtocol>
+    <sslRejectUnauthorized>false</sslRejectUnauthorized>
+  </policy>
+</policies>
