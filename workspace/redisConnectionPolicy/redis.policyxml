@@ -5,7 +5,7 @@
     <port>6379</port>
     <databaseNumber>1</databaseNumber>
     <clientName></clientName>
-    <securityIdentity></securityIdentity>
+    <securityIdentity>MyRedisCredential</securityIdentity>
     <useSSL>false</useSSL>
     <sslProtocol>TLSv1.3</sslProtocol>
     <sslRejectUnauthorized>false</sslRejectUnauthorized>
